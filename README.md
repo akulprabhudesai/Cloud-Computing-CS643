@@ -1,4 +1,4 @@
-# Cloud-Computing-
+# Cloud-Computing-CS643
 Perform Image and text recognition using Amazon Recognition serivicw of AWS and Java with Infrastructure as a Service platform
 1) create two ec2 Instances on aws using Infrastrucuture as a Service platform.
 2) Create jar files of ImageRecognition.java and Textrecognition.java files by using IDE as follows:
